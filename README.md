@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Malek 👨‍💻
 
-I am a Embedded SWE Intern working at Caterpillar. I am passionate about technologies and love to learn new things.
+I'm am Embedded SWE Intern working at Caterpillar. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my [website](https://abdelmalekanes.vercel.app/).
 
