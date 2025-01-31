@@ -2,7 +2,7 @@
 
 I'm am Embedded SWE Intern working at Caterpillar. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://abdelmalekanes.vercel.dev).
+### 🔭 Have a look at my [website](https://abdelmalekanes.dev).
 
 ## ⚡ Tech Stack
 
